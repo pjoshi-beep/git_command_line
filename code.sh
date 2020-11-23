@@ -1,4 +1,5 @@
 #Simple shell script
-^X
-^X
+# load data
+# perform summary statistics
+
 
